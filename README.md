@@ -1,0 +1,2 @@
+# solvaTaskApi
+Technical requirement SOLVA

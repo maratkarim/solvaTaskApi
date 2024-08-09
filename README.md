@@ -24,7 +24,7 @@ Technical requirement SOLVA
 6. Liquibase
 7. JUnit
 
-# Эндпоинты
+# Endpoint
 1. API Client
    localhost:3000/client/getLimits - получаем все лимиты.
    localhost:3000/client/newLimit - задаем новый лимит.
